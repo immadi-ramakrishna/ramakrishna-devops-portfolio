@@ -34,28 +34,24 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with over **6 years of e
 
 ### **Cloud Automation**
 - Automated resource provisioning on **AWS** and **Azure** using **Terraform** and **ARM Templates**.  
-- Improved efficiency by reducing deployment times by 30%.  
-
 ### **Testing Enhancements**
-- Enhanced test case automation using **Provar** and **Selenium**, aligning with CI/CD workflows.  
+- Enhanced test case automation using **Provar** aligning with CI/CD workflows.  
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications  
+- **Azure AZ-900,AZ-104**  
 - **Provar Automation Certified** (3 certifications)  
-- **AWS DevOps**  
-- **Azure DevOps**  
-
 ---
 
 ## 📚 Learning & Growth
-Currently exploring **Salesforce Administration** to expand my technical horizons.  
+Currently exploring **Salesforce Administration** and **Salesforce Copado** to expand my technical horizons.  
 
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com  
+- 🌐 [LinkedIn](www.linkedin.com/in/ramakrishna-immadi-551062223)  
+- 📧 Email: i.ramakrishna94@gmail.com  
 
 ---
 
