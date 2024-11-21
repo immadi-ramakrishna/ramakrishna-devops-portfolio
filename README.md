@@ -52,7 +52,7 @@ Currently exploring **Salesforce Administration** and **Salesforce Copado** to e
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [LinkedIn](www.linkedin.com/in/ramakrishna-immadi-551062223)  
+- 🌐 [LinkedIn]:(www.linkedin.com/in/ramakrishna-immadi-551062223)  
 - 📧 Email: i.ramakrishna94@gmail.com  
 
 ---
