@@ -40,8 +40,10 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with over **6 years of e
 ---
 
 ## 🎓 Certifications  
-- **Azure AZ-900,AZ-104**  
+- ![Azure Fundamentals](URL_TO_FIRST_IMAGE) **Azure AZ-900**  
+- ![Azure Associate](URL_TO_SECOND_IMAGE) **Azure AZ-104**  
 - **Provar Automation Certified** (3 certifications)  
+
 ---
 
 ## 📚 Learning & Growth
