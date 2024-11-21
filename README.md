@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with over **6 years of e
 - **Scripting:** Bash, Python  
 
 ### **Testing & QA**  
-- Functional & Automation Testing: Selenium, Provar  
+- Functional & Automation Testing:Provar  
 - Integrating Testing with CI/CD Pipelines  
 
 ---
@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with over **6 years of e
 ---
 
 ## 🎓 Certifications  
-- ![Azure Fundamentals](https://github.com/immadi-ramakrishna/ramakrishna-devops-portfolio.git) **Azure AZ-900**  
-- ![Azure Associate](https://github.com/immadi-ramakrishna/ramakrishna-devops-portfolio.git) **Azure AZ-104**  
+- **Azure AZ-900**  
+- **Azure AZ-104**  
 - **Provar Automation Certified** (3 certifications)  
 
 ---
