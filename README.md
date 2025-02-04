@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with over **6 years of e
 - **Scripting:** Bash, Python  
 
 ### **Testing & QA**  
-- Functional & Automation Testing:Provar  
 - Integrating Testing with CI/CD Pipelines  
 
 ---
