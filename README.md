@@ -40,14 +40,14 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with over **6 years of e
 ---
 
 ## 🎓 Certifications  
+-**AWS Certified Solutions Architect - Associate**
 - **Azure AZ-900**  
-- **Azure AZ-104**  
-- **Provar Automation Certified** (3 certifications)  
+- **Azure AZ-104**   
 
 ---
 
 ## 📚 Learning & Growth
-Currently exploring **Salesforce Administration** and **Salesforce Copado** to expand my technical horizons.  
+Currently exploring **Salesforce Copado** to expand my technical horizons.  
 
 ---
 
