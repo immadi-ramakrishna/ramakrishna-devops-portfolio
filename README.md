@@ -33,13 +33,9 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with over **6 years of e
 
 ### **Cloud Automation**
 - Automated resource provisioning on **AWS** and **Azure** using **Terraform** and **ARM Templates**.  
-### **Testing Enhancements**
-- Enhanced test case automation using **Provar** aligning with CI/CD workflows.  
-
 ---
-
 ## 🎓 Certifications  
--**AWS Certified Solutions Architect - Associate**
+- **AWS Certified Solutions Architect - Associate**
 - **Azure AZ-900**  
 - **Azure AZ-104**   
 
